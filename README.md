@@ -3,7 +3,9 @@ I needed to create a Google Ads acoount and they require a webpage to sign up. T
 
 ### Content
 
-Even though this is a dummy page to use for a class, I will be updating content as I go for the experience.
+Even though this is a dummy page to use for a class, I will be updating content throughout the course. 
+
+**for the experience!**
 
 ```javascript
 [] + [] //''
