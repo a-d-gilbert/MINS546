@@ -7,7 +7,7 @@
 
 Google Ads issue had a workaround that didnt need a site. I was able to click a link at the bottom of the page that said "I'm a profesional" and that allowed me to go staright to the console to be able to find my ID without creating a campaign.
 
-1/21/2019 - Solved my issue with the account creation completion for the google search console using the git hub IO page. I was successfully able to just add the html verification file to the repo and it allowed me to prove that I was the domains owner.
+1/21/2019 - Solved my issue with the account creation completion for the google search console using [git hub pages](https://pages.github.com/). I was successfully able to just add the html verification file to the repo and it allowed me to prove that I was the domains owner.
 
 ### Random
 
